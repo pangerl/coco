@@ -8,3 +8,5 @@ data/*
 host_rsa_key
 coco.pid
 config.yml
+.venv/
+Pipfile*
